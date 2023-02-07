@@ -25,7 +25,7 @@ class OrderStoreRequest extends FormRequest
     {
         return [
             'cname' => 'required',
-            'phone' => 'required',
+            'phone' => 'required|digits:10',
             'product' => 'required',
             'qty' => 'required'
         ];
