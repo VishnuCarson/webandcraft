@@ -25,7 +25,7 @@ class ProductUpdateRequest extends FormRequest
     {
         $product_id = $this->route('product')->id;
         return [
-            'name' => 'required|string|max:255',
+            'name' => 'required|string|max:255|unique:products,name',
             'image' => 'nullable|image',
             'price' => 'required|regex:/^\d+(\.\d{1,2})?$/',
             'status' => 'required|boolean',
