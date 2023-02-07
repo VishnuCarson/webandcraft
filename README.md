@@ -7,7 +7,7 @@
 
 
 
-    git clone https://github.com/angkosal/laravel-pos.git [YourDirectoryName]
+   git clone https://github.com/VishnuCarson/webandcraft.git
 
 The command installs the project in a directory named `YourDirectoryName`. You can choose a different
 directory name if you want.
