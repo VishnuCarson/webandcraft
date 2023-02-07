@@ -50,7 +50,7 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 
 #### Product list
 
-![Product list](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/products_list.png)
+https://github.com/VishnuCarson/webandcraft/blob/main/screencapture-localhost-8000-admin-products-2023-02-08-00_34_07.png
 
 #### Create order
 
