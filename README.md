@@ -52,16 +52,15 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 
 https://github.com/VishnuCarson/webandcraft/blob/main/screencapture-localhost-8000-admin-products-2023-02-08-00_34_07.png
 
+####Create Product
+https://github.com/VishnuCarson/webandcraft/blob/main/screencapture-localhost-8000-admin-products-create-2023-02-08-00_37_27.png
+
 #### Create order
 
-![Create order](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/pos.png)
+https://github.com/VishnuCarson/webandcraft/blob/main/screencapture-localhost-8000-admin-orders-create-2023-02-08-00_40_10.png
 
 #### Order list
 
-![Order list](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/order_list.png)
+https://github.com/VishnuCarson/webandcraft/blob/main/screencapture-localhost-8000-admin-orders-2023-02-08-00_39_03.png
 
-#### Customer list
 
-![Customer list](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/customer_list.png)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/angkosal)
